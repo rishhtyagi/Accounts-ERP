@@ -1,7 +1,7 @@
 # Accounts-ERP
 This full-stack project allows the employees of accounts department to login, create, read, update and delete bills.
 <br/>
-The project built using the following technologies:
+The project built using the following technologies:<br/>
 HTML, CSS, JS, Java, JPA-Hibernate, SQL
 
 
